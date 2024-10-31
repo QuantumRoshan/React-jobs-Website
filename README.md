@@ -44,7 +44,7 @@ Styling: Tailwind CSS
 Notifications: React Toastify 
 
 
-3 .Installation 
+3. Installation 
 
 Clone the repository:  
 
@@ -59,7 +59,6 @@ Start the development server:
 
 npm start 
  
-
 4. Usage 
 
 Add items by entering details in the input fields and submitting. 
