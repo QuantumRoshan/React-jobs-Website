@@ -22,7 +22,7 @@ Contributing
 
 License 
 
-1. Features 
+1 . Features 
 
 Add, edit, and delete items: Manage items with intuitive UI. 
 
@@ -33,7 +33,7 @@ Responsive design: Fully responsive layout with Tailwind CSS.
 Modern icons: Uses React Icons for a clean and consistent visual language. 
 
 
-2 .Tech Stack 
+2 . Tech Stack 
 
 Frontend: React, Tailwind CSS 
 
@@ -44,7 +44,7 @@ Styling: Tailwind CSS
 Notifications: React Toastify 
 
 
-3. Installation 
+3 . Installation 
 
 Clone the repository:  
 
@@ -59,7 +59,7 @@ Start the development server:
 
 npm start 
  
-4. Usage 
+4 . Usage 
 
 Add items by entering details in the input fields and submitting. 
 
@@ -70,14 +70,14 @@ Delete items by selecting an item and choosing the delete option.
 The interface provides a seamless experience for managing items with feedback for actions performed. 
 
 
-5. Scripts 
+5 . Scripts 
 
 Start: npm start — runs the app in development mode. 
 
 Build: npm run build — builds the app for production. 
 
 
-6. Packages Used 
+6 . Packages Used 
 
 React Toastify: For notifications. 
 
@@ -88,12 +88,12 @@ Prop Types: Used for type-checking component props.
 UUID: For generating unique keys for list items. 
 
 
-7. Screenshots 
+7 . Screenshots 
 
 Include screenshots of your application here 
 
 
-8. Contributing 
+8 . Contributing 
 
 Contributions are welcome! Feel free to open issues or submit pull requests. 
 
@@ -108,7 +108,7 @@ Push to the branch: git push origin feature/AmazingFeature
 Open a pull request. 
 
 
-9. License 
+9 . License 
 
 Distributed under the MIT License. See LICENSE for more information. 
 
